@@ -1,6 +1,6 @@
 {
 	"name": "cocrpc",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Discord Rich Presence that shows on your profile your Clash of Clans statistics.",
 	"main": "index.js",
 	"scripts": {

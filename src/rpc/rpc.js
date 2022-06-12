@@ -55,7 +55,7 @@ const rpc = async function setActivity(client) {
 		client.request('SET_ACTIVITY', {
 			pid: process.pid,
 			activity: {
-				details: `🏆 Trophies: ${player.trophies}/${player.bestTrophies} ⭐ Level: ${player.expLevel}`,
+				details: `🏆 Trophies: ${player.trophies}/${player.bestTrophies} • ⭐ Level: ${player.expLevel}`,
 				state: `🏠 Town Hall Level: ${player.townHallLevel} • 🌟 War Stars: ${player.warStars} • 🥊 Season Wins: ${seasonWins}`,
 				timestamps: {
 					start: Date.now(),
