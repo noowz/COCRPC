@@ -1,7 +1,7 @@
 <div align="center">
 	<p>
 		<a target="_blank" href="https://github.com/Fastxyz/COCRPC" title="COCRPC">
-			<img src="https://i.imgur.com/CBJXt2K.png" width="256" alt="COCRPC">
+			<img src="https://i.imgur.com/CBJXt2K.png" width="256" alt="COCRPC" draggable="false">
 		</a>
 	</p>
 </div>
@@ -16,7 +16,7 @@
 
 ## **🖼️ Preview:**
 
-<img alt="Discord RPC" src="https://i.imgur.com/NN98k5D.png">
+<img src="https://i.imgur.com/NN98k5D.png" alt="Discord RPC" draggable="false">
 
 <hr>
 
@@ -31,7 +31,7 @@
 
 1. Open **Clash of Clans** and follow the steps to get your Tag:
 
-  <img alt="Clash of Clans Player Tag" src="https://i.imgur.com/Rdo57QH.gif">
+  <img src="https://i.imgur.com/Rdo57QH.gif" alt="Clash of Clans Player Tag" draggable="false">
 
 2. Go to the `config.js` file and replace **YOUR PLAYER TAG** with your Clash of Clans player tag.
 3. Go to the [Clash of Clans API Dashboard](https://developer.clashofclans.com) and create an account or log in to your account.
