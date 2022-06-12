@@ -1,0 +1,35 @@
+{
+	"name": "cocrpc",
+	"version": "1.0.0",
+	"description": "Discord Rich Presence that shows on your profile your Clash of Clans statistics.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ."
+	},
+	"keywords": [
+		"discord",
+		"rpc",
+		"javascript",
+		"js",
+		"discord.js",
+		"djs",
+		"clashofclans"
+	],
+	"author": "Fastxyz",
+	"license": "GPL-3.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Fastxyz/COCRPC.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Fastxyz/COCRPC/issues"
+	},
+	"homepage": "https://github.com/Fastxyz/COCRPC/#readme",
+	"dependencies": {
+		"discord-rpc": "^4.0.1",
+		"node-fetch-commonjs": "^3.1.1"
+	},
+	"devDependencies": {
+		"eslint": "^8.17.0"
+	}
+}

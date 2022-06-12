@@ -1,0 +1,15 @@
+module.exports = {
+	auth: {
+		discord: {
+			clientID: '848194055619215360'
+		},
+		clashofclans: {
+			token: 'YOUR API KEY'
+		}
+	},
+	settings: {
+		user: {
+			playerTag: 'YOUR PLAYER TAG'
+		}
+	}
+};
