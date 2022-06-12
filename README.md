@@ -16,7 +16,7 @@
 
 ## **🖼️ Preview:**
 
-<img alt="Discord RPC" src="https://i.imgur.com/vkxdPl9.png">
+<img alt="Discord RPC" src="https://i.imgur.com/NN98k5D.png">
 
 ## **⚒️ Installation**
 
