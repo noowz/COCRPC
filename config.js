@@ -9,7 +9,8 @@ module.exports = {
 	},
 	settings: {
 		user: {
-			playerTag: 'YOUR PLAYER TAG'
+			playerTag: 'YOUR PLAYER TAG',
+			token: 'YOUR TOKEN'
 		}
 	}
 };

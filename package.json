@@ -1,6 +1,6 @@
 {
 	"name": "cocrpc",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"description": "Discord Rich Presence that shows on your profile your Clash of Clans statistics.",
 	"main": "index.js",
 	"scripts": {
@@ -9,27 +9,52 @@
 	"keywords": [
 		"discord",
 		"rpc",
+		"discordjs",
+		"djs",
+		"clashofclans",
+		"clash",
+		"of",
+		"clans",
+		"bs",
+		"clashofclansapi",
+		"cocapi",
+		"api",
+		"supercell",
+		"data",
+		"info",
+		"stats",
+		"profile",
+		"overview",
 		"javascript",
 		"js",
-		"discord.js",
-		"djs",
-		"clashofclans"
+		"node",
+		"npm"
 	],
-	"author": "Fastxyz",
-	"license": "GPL-3.0",
+	"author": {
+		"name": "Fastxyz",
+		"email": "danieeel.dev@gmail.com",
+		"url": "https://github.com/Fastxyz"
+	},
+	"license": "BSD 2-Clause License",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Fastxyz/COCRPC.git"
+		"url": "https://github.com/Fastxyz/COCRPC"
 	},
 	"bugs": {
 		"url": "https://github.com/Fastxyz/COCRPC/issues"
 	},
-	"homepage": "https://github.com/Fastxyz/COCRPC/#readme",
+	"homepage": "https://github.com/Fastxyz/COCRPC",
+	"funding": [
+		{
+			"type": "github",
+			"url": "https://github.com/sponsors/Fastxyz"
+		}
+	],
 	"dependencies": {
 		"discord-rpc": "^4.0.1",
-		"node-fetch-commonjs": "^3.1.1"
+		"node-fetch-commonjs": "^3.2.4"
 	},
 	"devDependencies": {
-		"eslint": "^8.17.0"
+		"eslint": "^8.41.0"
 	}
 }
