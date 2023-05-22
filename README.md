@@ -6,6 +6,19 @@
 
 ---
 
+<p align="center">
+	<a href="#-about">About</a> |
+  	<a href="#%EF%B8%8F-preview">Preview</a> |
+  	<a href="#%EF%B8%8F-installation">Installation</a> |
+  	<a href="#-how-to-use">How to use</a> |
+  	<a href="#-bugs">Bugs</a> |
+	<a href="#-suggestionsquestions">Suggestions/Questions</a> |
+	<a href="#-license">License</a> |
+	<a href="#-disclaimer">Disclaimer</a> |
+</p>
+
+---
+
 ## **📙 About**
 
 **COCRPC** is a custom Discord Rich Presence that shows on your profile your Clash of Clans statistics.
@@ -64,6 +77,12 @@ If you find any bugs and know how to solve them or if you want to add something 
 ## 💁 **Suggestions/Questions**
 
 If you have any questions or want to give some suggestions, send them on the [issues section](https://github.com/Fastxyz/COCRPC/issues).
+
+---
+
+## 📝 **License**
+
+This project is licensed under the <a href="./LICENSE" target="blank">BSD 2-Clause License</a> license.
 
 ---
 
