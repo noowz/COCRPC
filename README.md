@@ -4,63 +4,68 @@
 	</a>
 </p>
 
-<hr>
+---
 
 ## **📙 About**
 
 **COCRPC** is a custom Discord Rich Presence that shows on your profile your Clash of Clans statistics.
 
-<hr>
+---
 
 ## **🖼️ Preview:**
 
-<img src="https://i.imgur.com/NN98k5D.png" alt="Discord RPC" draggable="false">
+![Discord RPC](https://i.imgur.com/Xt2NRs9.png)
 
-<hr>
+---
 
 ## **⚒️ Installation**
 
 1. Download [Node.js](https://nodejs.org/en/download).
 2. Download [COCRPC](https://github.com/Fastxyz/COCRPC/archive/refs/heads/main.zip).
 
-<hr>
+---
 
 ## **🚀 How to use**
 
-1. Open **Clash of Clans** and follow the steps to get your Tag:
+1. Open **Clash of Clans** and follow the steps to get your Tag and your Token:
 
-  <img src="https://i.imgur.com/Rdo57QH.gif" alt="Clash of Clans Player Tag" draggable="false">
+   ![Clash of Clans Player Tag](https://i.imgur.com/wqbWCPW.gif)
+
+   ![Clash of Clans Player Token](https://i.imgur.com/Fh4aKlG.gif)
 
 2. Go to the `config.js` file and replace **YOUR PLAYER TAG** with your Clash of Clans player tag.
-3. Go to the [Clash of Clans API Dashboard](https://developer.clashofclans.com) and create an account or log in to your account.
-4. Create a [new API key](https://developer.clashofclans.com/#/new-key). You will need to allow your IP Address. To find out your IP Address, [click here](https://nordvpn.com/what-is-my-ip).
-5. Go to the `config.js` file and replace **YOUR API KEY** with your API key.
-6. Open the CMD/Terminal and go to the place where you saved the files with the `cd` command.
-7. Install all the required dependencies:
+3. Go to the `config.js` file and replace **YOUR PLAYER TOKEN** with your Clash of Clans player token.
+4. Go to the [Clash of Clans API Dashboard](https://developer.clashofclans.com) and create an account or log in to your account.
+5. Create a [new API key](https://developer.clashofclans.com/#/new-key). You will need to allow your IP Address. To find out your IP Address, [click here](https://nordvpn.com/what-is-my-ip).
+6. Go to the `config.js` file and replace **YOUR API KEY** with your API key.
+7. Open the CMD/Terminal and go to the place where you saved the files with the `cd` command.
+8. Install all the required dependencies:
 
-```cmd
-npm install
-```
+   ```cmd
+   npm install
+   ```
 
-8. Run the RPC:
+9. Run the RPC:
 
-```cmd
-node .
-```
+   ```cmd
+   node .
+   ```
 
-<hr>
+---
 
 ## 🐛 **Bugs**
 
-If you find any bugs, report them on the [issues section](https://github.com/Fastxyz/COCRPC/issues).</br>If you find any bugs and know how to solve them or if you want to add something and you know how to add it, create a pull request on the [pull request section](https://github.com/Fastxyz/COCRPC/pulls).
+If you find any bugs, report them on the [issues section](https://github.com/Fastxyz/COCRPC/issues).
 
-<hr>
+If you find any bugs and know how to solve them or if you want to add something and you know how to add it, create a pull request on the [pull request section](https://github.com/Fastxyz/COCRPC/pulls).
+
+---
 
 ## 💁 **Suggestions/Questions**
 
 If you have any questions or want to give some suggestions, send them on the [issues section](https://github.com/Fastxyz/COCRPC/issues).
 
-<hr>
+---
 
 ## 📌 **Disclaimer**
 

@@ -92,7 +92,7 @@ const rpc = async function setActivity(client) {
 		const tokenResponse = await fetch(`https://api.clashofclans.com/v1/players/%23${config.settings.user.playerTag.replace('#', '')}/verifytoken`, {
 			method: 'POST',
 			body: JSON.stringify({
-				'token': config.settings.user.token
+				'token': config.settings.user.playerToken
 			}),
 			headers: {
 				'Authorization': `Bearer ${config.auth.clashofclans.token}`,
@@ -141,7 +141,7 @@ const rpc = async function setActivity(client) {
 			const tokenStatus = await tokenResponse.json();
 
 			if (tokenStatus.status !== 'ok') {
-				console.error('[HANDLER] The Clash of Clans Token provided is not valid. Please provide a valid Clash of Clans Token.');
+				console.error('[HANDLER] The Clash of Clans player token provided is not valid. Please provide a valid Clash of Clans player token.');
 
 				process.exit(1);
 			} else {

@@ -36,8 +36,8 @@ module.exports = {
 			process.exit(1);
 		};
 
-		if (!config.settings.user.playerTag || config.settings.user.playerTag === 'YOUR TOKEN') {
-			console.error('[HANDLER] No Clash of Clans Token provided. Please provide a Clash of Clans Token.');
+		if (!config.settings.user.playerToken || config.settings.user.playerToken === 'YOUR PLAYER TOKEN') {
+			console.error('[HANDLER] No Clash of Clans player token provided. Please provide a Clash of Clans player token.');
 
 			process.exit(1);
 		};
