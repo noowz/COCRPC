@@ -1,10 +1,8 @@
-<div align="center">
-	<p>
-		<a target="_blank" href="https://github.com/Fastxyz/COCRPC" title="COCRPC">
-			<img src="https://i.imgur.com/CBJXt2K.png" width="256" alt="COCRPC" draggable="false">
-		</a>
-	</p>
-</div>
+<p align="center">
+	<a target="_blank" href="https://github.com/Fastxyz/COCRPC" title="COCRPC">
+		<img src="https://i.imgur.com/CBJXt2K.png" width="256" alt="COCRPC" draggable="false">
+	</a>
+</p>
 
 <hr>
 
