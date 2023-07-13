@@ -1,5 +1,5 @@
 <p align="center">
-	<a target="_blank" href="https://github.com/Fastxyz/COCRPC" title="COCRPC">
+	<a target="_blank" href="https://github.com/noowz/COCRPC" title="COCRPC">
 		<img src="https://i.imgur.com/CBJXt2K.png" width="256" alt="COCRPC" draggable="false">
 	</a>
 </p>
@@ -34,7 +34,7 @@
 ## **⚒️ Installation**
 
 1. Download [Node.js](https://nodejs.org/en/download).
-2. Download [COCRPC](https://github.com/Fastxyz/COCRPC/archive/refs/heads/main.zip).
+2. Download [COCRPC](https://github.com/noowz/COCRPC/archive/refs/heads/main.zip).
 
 ---
 
@@ -44,21 +44,18 @@
 
    ![Clash of Clans Player Tag](https://i.imgur.com/wqbWCPW.gif)
 
-   ![Clash of Clans Player Token](https://i.imgur.com/Fh4aKlG.gif)
-
-2. Go to the `config.js` file and replace **YOUR PLAYER TAG** with your Clash of Clans player tag.
-3. Go to the `config.js` file and replace **YOUR PLAYER TOKEN** with your Clash of Clans player token.
-4. Go to the [Clash of Clans API Dashboard](https://developer.clashofclans.com) and create an account or log in to your account.
-5. Create a [new API key](https://developer.clashofclans.com/#/new-key). You will need to allow your IP Address. To find out your IP Address, [click here](https://nordvpn.com/what-is-my-ip).
-6. Go to the `config.js` file and replace **YOUR API KEY** with your API key.
-7. Open the CMD/Terminal and go to the place where you saved the files with the `cd` command.
-8. Install all the required dependencies:
+2. Go to the `config.json` file and replace **YOUR PLAYER TAG** with your Clash of Clans player tag.
+3. Go to the [Clash of Clans API Dashboard](https://developer.clashofclans.com) and create an account or log in to your account.
+4. Create a [new API key](https://developer.clashofclans.com/#/new-key). You will need to allow your IP Address. To find out your IP Address, [click here](https://nordvpn.com/what-is-my-ip).
+5. Go to the `config.json` file and replace **YOUR API KEY** with your API key.
+6. Open the CMD/Terminal and go to the place where you saved the files with the `cd` command.
+7. Install all the required dependencies:
 
    ```cmd
    npm install
    ```
 
-9. Run the RPC:
+8. Run the RPC:
 
    ```cmd
    node .
@@ -68,15 +65,15 @@
 
 ## 🐛 **Bugs**
 
-If you find any bugs, report them on the [issues section](https://github.com/Fastxyz/COCRPC/issues).
+If you find any bugs, report them on the [issues section](https://github.com/noowz/COCRPC/issues).
 
-If you find any bugs and know how to solve them or if you want to add something and you know how to add it, create a pull request on the [pull request section](https://github.com/Fastxyz/COCRPC/pulls).
+If you find any bugs and know how to solve them or if you want to add something and you know how to add it, create a pull request on the [pull request section](https://github.com/noowz/COCRPC/pulls).
 
 ---
 
 ## 💁 **Suggestions/Questions**
 
-If you have any questions or want to give some suggestions, send them on the [issues section](https://github.com/Fastxyz/COCRPC/issues).
+If you have any questions or want to give some suggestions, send them on the [issues section](https://github.com/noowz/COCRPC/issues).
 
 ---
 
@@ -88,4 +85,4 @@ This project is licensed under the [MIT](./LICENSE) license.
 
 ## 📌 **Disclaimer**
 
-> This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see [Supercell’s Fan Content Policy](https://supercell.com/fan-content-policy).
+> This material is unofficial and is not endorsed by Supercell. For more information see Supercell's Fan Content Policy: [Supercell’s Fan Content Policy](https://supercell.com/en/fan-content-policy).
